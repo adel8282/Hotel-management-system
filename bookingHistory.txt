@@ -1,0 +1,5 @@
+Guest's ID, Guest's name, Room Number, Room Type, Reservation Date 
+7, Ali,1(2),Single room with balcony (mall view),2024-08-06 
+8, Ali,5(2),Private villa (sea view), 2024-08-06 
+9, Mohammed,5(2),Private villa (sea view), 2024-08-06
+10,Ali,1(1),Single room with balcony (mall view),2024-08-07

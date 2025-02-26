@@ -1,0 +1,2 @@
+customer,18,customer@gmail.com,customer
+mohammed,19,mohammed@gmail.com,mohammed

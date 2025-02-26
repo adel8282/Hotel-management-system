@@ -1,0 +1,10 @@
+1(1),Single room with balcony (mall view),1-2person,500,Available
+1(2),Single room with balcony (mall view),1-2person,500,Available
+2(1),Single room without balcony (mall view),1-2person,550,Occupied
+2(2),Single room without balcony (mall view),1-2person,550,Available
+3(1),Single room without balcony (sea view),1-2person,700,Occupied
+3(2),Single room without balcony (sea view),3-4person,700,Occupied
+4(1),Double room (sea view),3-4person,1000,Available
+4(2),Double room (sea view),3-4person,1000,Occupied
+5(1),Private villa (sea view),5-6person,4000,Occupied
+5(2),Private villa (sea view),5-6person,4000,Available

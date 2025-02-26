@@ -1,0 +1,5 @@
+Guest's ID, Guest's name, Room Number, Room Type, Reservation Date, Price
+1,Adel,1(1),Single room with balcony (mall view),2024-10-10,500
+6,Adel,5(1),Private villa (sea view),2024-08-08,4000
+7,Mohammed,2(2),Single room without balcony (mall view),2024-11-11,550
+10,Ahmed,2(2),Single room without balcony (mall view),2024-10-10,550

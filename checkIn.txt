@@ -1,0 +1,6 @@
+Guest's ID, Guest's name, Room Number, Room Type, Reservation Date 
+8,Osama,4(2),Double room (sea view),2024-08-07
+9,Osama,3(2),Single room without balcony (sea view),2024-08-07
+8,Adel,4(2),Double room (sea view),2024-08-07
+9,Osama,3(1),Single room without balcony (sea view),2024-08-07
+11,Aziz,3(1),Single room without balcony (sea view),2024-08-07
